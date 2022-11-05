@@ -10,7 +10,7 @@ namespace exam001
         static void Main(string[] args)
         {
             Console.WriteLine("hello, i am azerbash");
-
+           
         }
     }
 }
